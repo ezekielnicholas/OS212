@@ -5,7 +5,12 @@ ZCZC W00 10 L00 General, etc.
 ZCZC W00 10 L01 SCELE/Discord related
 ZCZC W00 100 L02 Zoom Meetings
 ZCZC W00 10 L03 GitHub related
-ZCZC W00 30 L10 Assignment #00 
+ZCZC W00 30 L10 Assignment #00
+ZCZC W00 15 L11 Assignment #01
+ZCZC W00 15 L12 Assignment #02
+ZCZC W00 15 L13 Assignment #03
+ZCZC W00 15 L14 Assignment #04
+ZCZC W00 15 L15 Assignment #05
 ZCZC W01 100 L02 Zoom Meetings for second meeting
 ZCZC W01 5 L22 Quiz1_Week00 
 ZCZC W01 20 L08 AsDos: asking
