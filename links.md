@@ -1,4 +1,3 @@
-[HOME](.) | [Repository](https://github.com/ezekielnicholas/os212) | [Page](https://ezekielnicholas.github.io/os212/) | [Log](https://github.com/ezekielnicholas/os212/blob/master/TXT/mylog.txt) | [Links](LINKS/)
 ---
 layout: "layout"
 permalink: /LINKS/
