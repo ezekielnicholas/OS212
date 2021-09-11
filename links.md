@@ -5,11 +5,11 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/Operating_system)<br>
-The basic definition of operating system.
+1. [One](https://scele.cs.ui.ac.id/)<br>
+The main link for computer science student in University of Indonesia.
 
-2. [Two](https://en.wikipedia.org/wiki/Linux)<br>
-What we are going to use when learning operating system
+2. [Two](https://academic.ui.ac.id/main/Welcome/)<br>
+The main link for all students who is studying in University of Indonesia.
 
-3. [Three](https://www.geeksforgeeks.org/types-of-operating-systems/)<br>
-There are many type of operating system that can be use
+3. [Three](https://os.vlsm.org/)<br>
+The main link for all student who is taking the Operating System course in University of Indonesia.
