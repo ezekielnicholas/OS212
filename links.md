@@ -5,22 +5,22 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [Scele](https://scele.cs.ui.ac.id/)<br>
-The main link for computer science student in University of Indonesia.
+### 1. [How to use vim editor](https://www.youtube.com/watch?v=pU2k776i2Zw)<br>
+Interesting video on how to use vi text editor. With the lack of UI, this video helps using the vi editor.
 
-2. [Siak](https://academic.ui.ac.id/main/Welcome/)<br>
-The main link for all students who is studying in University of Indonesia.
+### 2. [Basic of VIM](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
+Video about upgraded version of vi, vim. vim is a text editor based on vi but better.
 
-3. [OS main page](https://os.vlsm.org/)<br>
+### 3. [OS main page](https://os.vlsm.org/)<br>
 The main link for all student who is taking the Operating System course in University of Indonesia.
 
-4. [OS Introduction](https://www.youtube.com/watch?v=fkGCLIQx1MI)<br>
+### 4. [OS Introduction](https://www.youtube.com/watch?v=fkGCLIQx1MI)<br>
 This is for the introduction of what is operating system, what is the function of operating system, and how to operate if you have operating system.
 
-5. [Study awk](https://www.youtube.com/watch?v=9YOZmI-zWok)<br>
+### 5. [Study awk](https://www.youtube.com/watch?v=9YOZmI-zWok)<br>
 This is for the introduction of what is awk. How to use awk and the basic syntax for awk. This the beginner video for when we want to use linux.
 
-Temporarly links for OS,
+# Temporarly links for OS,
 
 ---
 
