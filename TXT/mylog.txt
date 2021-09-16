@@ -26,3 +26,4 @@ ZCZC W01 30 L18 Assignment #08 More awk, bash, regex, sed
 ZCZC W01 30 L19 Assignment #09 OSC 10
 ZCZC W02 100 L02 Zoom Meetings
 ZCZC W02 60 L02 ZOOM meetings Q&A
+ZCZC W02 180 L11 Assignment #01 Read OSC10 chapter 16 + 17
