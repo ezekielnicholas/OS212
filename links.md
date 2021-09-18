@@ -20,6 +20,9 @@ This is for the introduction of what is operating system, what is the function o
 ### 5. [Study awk](https://www.youtube.com/watch?v=9YOZmI-zWok)<br>
 This is for the introduction of what is awk. How to use awk and the basic syntax for awk. This the beginner video for when we want to use linux.
 
+### 6. [C++](https://www.tutorialspoint.com/compiling-a-cplusplus-program-with-gcc)<br>
+This is how to compile c++ prtogram using gcc in VBox and a short introduction to c++.
+
 # Temporarly links for OS,
 
 ---
