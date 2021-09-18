@@ -36,3 +36,8 @@ ZCZC W02 70 L15 Assignment #05 List of all GnuPG Keys
 ZCZC W02 70 L16 Assignment #06 Importing ospubkey.txt Key from https://osp4diss.vlsm.org/W02-02.html.
 ZCZC W02 70 L17 Assignment #07 Signing the Operating Systems public key (Optional).
 ZCZC W02 120 L18 Assignment #08 Export YOUR PUBLIC KEY to your repo file ”TXT/mypubkey.txt”.
+ZCZC W02 240 L19 Assignment #09 Update your bookmark links. See C.B. Kadal’s ”LINKS/”
+ZCZC W02 120 L20 Assignment #10 Review your peer links
+ZCZC W02 120 L09 Assignment in General Write (or copy) a simple and useful bash script
+ZCZC W02 120 L09 Assignment update your log
+ZCZC W02 120 L09 Assignment Write a simple "myscript.sh" script to generate SHA256SUM and SHA256SUM.asc.
