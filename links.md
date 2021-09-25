@@ -23,6 +23,9 @@ This is for the introduction of what is awk. How to use awk and the basic syntax
 ### 6. [C++](https://www.tutorialspoint.com/compiling-a-cplusplus-program-with-gcc)<br>
 This is how to compile c++ prtogram using gcc in VBox and a short introduction to c++.
 
+### 7. [C Language](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+This is the beginner tutorial for the C language.
+
 # Temporarly links for OS,
 
 ---
