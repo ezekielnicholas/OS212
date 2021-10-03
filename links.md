@@ -26,6 +26,9 @@ This is how to compile c++ prtogram using gcc in VBox and a short introduction t
 ### 7. [C Language](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 This is the beginner tutorial for the C language.
 
+### 8. [Main Memory](https://www.youtube.com/watch?v=Jy_teuaj7Ic)
+This is the explaination of the main memory.
+
 # Temporarly links for OS,
 
 ---
