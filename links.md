@@ -29,6 +29,9 @@ This is the beginner tutorial for the C language.
 ### 8. [Main Memory](https://www.youtube.com/watch?v=Jy_teuaj7Ic)
 This is the explaination of the main memory.
 
+### 9. [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)
+This is the explaination of the virtual memory.
+
 # Temporarly links for OS,
 
 ---
