@@ -32,6 +32,12 @@ This is the explaination of the main memory.
 ### 9. [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)
 This is the explaination of the virtual memory.
 
+### 10. [Swicthing Context](https://www.javatpoint.com/what-is-the-context-switching-in-the-operating-system)
+This is the article about context swicthing.
+
+### 11. [State Transition](https://www.sciencedirect.com/topics/computer-science/state-transition-diagram)
+This is how to make the diagram of state transition.
+
 # Temporarly links for OS,
 
 ---

@@ -11,4 +11,8 @@ permalink: /TIPS/
 
 ### 3. Github is your best friend because all is in Github
 
+### 4. Always do your weekly assignment whatever it takes
+
+### 5. Do not copy others it is bad for your health
+
 # Temporarly tips for OS,
