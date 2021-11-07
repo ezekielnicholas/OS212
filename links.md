@@ -38,6 +38,12 @@ This is the article about context swicthing.
 ### 11. [State Transition](https://www.sciencedirect.com/topics/computer-science/state-transition-diagram)
 This is how to make the diagram of state transition.
 
+### 12. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)
+Tutorial on how to apply semaphores for operating system.
+
+### 13. [Monitors in Operating System](https://www.youtube.com/watch?v=ufdQ0GR855M)
+What is monitor and the usefullnes for operating system.
+
 # Temporarly links for OS,
 
 ---

@@ -15,4 +15,8 @@ permalink: /TIPS/
 
 ### 5. Do not copy others it is bad for your health
 
+### 6. Try the demos for this week
+
+### 7. Theres is 2 chance to redeem your mistake in OS
+
 # Temporarly tips for OS,
