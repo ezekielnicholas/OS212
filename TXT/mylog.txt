@@ -106,7 +106,21 @@ ZCZC W07 60 L16 Assignment #06 (Optional) Any suggestions/tips for the next seme
 ZCZC W07 60 L17 Assignment #07 Reviewed my peer links.
 ZCZC W07 60 L18 Assignment #08 Updated my log. 
 ZCZC W07 60 L19 Assignment #09 Submitted my Week 07 Assignment.
-
+ZCZC W08 5 L22 Quiz7_Week07
+ZCZC W08 15 L22 Quiz7_Week07
+ZCZC W08 100 L02 Zoom Meeting Weekly session
+ZCZC W08 30 L02 Zoom Meeting Q&A session
+ZCZC W08 80 L11 Assignment #01 Read OSC10 chapter 5
+ZCZC W08 60 L12 Assignment #02 Try demo W08
+ZCZC W08 60 L13 Assignment #03 Try Previous MidTerm Problems
+ZCZC W08 60 L14 Assignment #04 Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08 200 L14 Assignment #05 Linux From Scratch 11.0 Chapter 05
+ZCZC W08 60 L15 Assignment #06 Adding important links for my OS materials
+ZCZC W08 60 L16 Assignment #07 Adding TIPS & SUGGESTION FOR OS CLASS
+ZCZC W08 60 L18 Assignment #08 Review my neighbor links
+ZCZC W08 60 L19 Assignment #09 Update mylog.txt
+ZCZC W08 5 L20 Assignment #10 Submit my assignment to Github through GGG mantra
+ZCZC W08 100 L09 LFS 11.0 Chapter 06
 
 
 

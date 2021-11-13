@@ -19,4 +19,8 @@ permalink: /TIPS/
 
 ### 7. Theres is 2 chance to redeem your mistake in OS
 
+### 8. Friend is the way to do it
+
+### 9. Don't forget to pray
+
 # Temporarly tips for OS,

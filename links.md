@@ -44,6 +44,12 @@ Tutorial on how to apply semaphores for operating system.
 ### 13. [Monitors in Operating System](https://www.youtube.com/watch?v=ufdQ0GR855M)
 What is monitor and the usefullnes for operating system.
 
+### 14. [How to make Linux from Scratch](https://www.youtube.com/channel/UCFajCKBeNRW16Xb5mJvrCvw)
+How to make Linux.
+
+### 15. [Step by step making linux](https://www.linuxfromscratch.org/lfs/view/11.0/)
+Learn to make Linux.
+
 # Temporarly links for OS,
 
 ---
