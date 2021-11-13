@@ -119,8 +119,8 @@ ZCZC W08 60 L15 Assignment #06 Adding important links for my OS materials
 ZCZC W08 60 L16 Assignment #07 Adding TIPS & SUGGESTION FOR OS CLASS
 ZCZC W08 60 L18 Assignment #08 Review my neighbor links
 ZCZC W08 60 L19 Assignment #09 Update mylog.txt
-ZCZC W08 5 L20 Assignment #10 Submit my assignment to Github through GGG mantra
-ZCZC W08 100 L09 LFS 11.0 Chapter 06
+ZCZC W08 10 L20 Assignment #10 Submit my assignment to Github through GGG mantra
+
 
 
 
