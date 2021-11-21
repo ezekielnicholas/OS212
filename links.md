@@ -50,6 +50,9 @@ How to make Linux.
 ### 15. [Step by step making linux](https://www.linuxfromscratch.org/lfs/view/11.0/)
 Learn to make Linux.
 
+### 16. [Step by step making linux part 2](https://www.youtube.com/watch?v=rVj1xtWOtDs&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=10)
+Next Step on making linux
+
 # Temporarly links for OS,
 
 ---

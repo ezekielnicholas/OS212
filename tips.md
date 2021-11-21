@@ -23,4 +23,6 @@ permalink: /TIPS/
 
 ### 9. Don't forget to pray
 
+### 10. Find motivation before learning
+
 # Temporarly tips for OS,
