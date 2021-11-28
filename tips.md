@@ -25,4 +25,6 @@ permalink: /TIPS/
 
 ### 10. Find motivation before learning
 
+### 11. Make sure get an A for this course
+
 # Temporarly tips for OS,
